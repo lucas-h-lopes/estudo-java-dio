@@ -5,7 +5,7 @@ public class MinhaClasse { //deve conter o mesmo nome do arquivo
         System.out.println("Olá turma! Sejam bem-vindos."); //Classe System que tem métodos out e println
         //Arquivos .java são classes, ou seja, por convenção, a inicial de cada palavra deve ser letra maiúscula!
 
-        final String BR = "Brasil"; //o final no começo da linha indica que BR não pode ser alterado
+        //final String BR = "Brasil"; o final no começo da linha indica que BR não pode ser alterado
         //por padrão, todas as letras são maiúsculas
 
         String primeiroNome = "Lucas Henrique";
@@ -15,11 +15,11 @@ public class MinhaClasse { //deve conter o mesmo nome do arquivo
         System.out.println(nomeCompleto);
         
 
-        int anoFabricacao = 2022;
+        /*int anoFabricacao = 2022;
 
         boolean verdadeiroOuFalso = true;
 
-        anoFabricacao = 2018;
+        anoFabricacao = 2018;*/
 
         
     }
