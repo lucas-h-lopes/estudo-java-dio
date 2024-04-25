@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MelhoradoAboutMe",
+            "request": "launch",
+            "mainClass": "MelhoradoAboutMe",
+            "projectName": "java-terminal_178b16f4"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
